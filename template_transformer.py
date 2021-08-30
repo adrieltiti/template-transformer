@@ -19,7 +19,7 @@ def replace_patterns(line, dictionary, pattern):
 	return new_line
 
 EXPRESSION_KEY='EXPRESSION_KEY'
-pattern='<<' + EXPRESSION_KEY + '>>'
+pattern='{{' + EXPRESSION_KEY + '}}'
 properties_dictionary={}
 output_lines = []
 
