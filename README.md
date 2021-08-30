@@ -5,7 +5,7 @@ It use a dictionary properties file with the format:
 
 property-name = property-value
 
-and the pattern: <<EXPRESSION-TO-REPLACE>>
+and the pattern: ![image](https://user-images.githubusercontent.com/13359821/131381352-f1af2c76-56dd-4052-b9f7-94841bdd9a10.png)
 
 The pattern is case sensitive.
 
