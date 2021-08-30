@@ -5,10 +5,12 @@ It use a dictionary properties file with the format:
 
 property-name = property-value
 
-and the pattern: ![image](https://user-images.githubusercontent.com/13359821/131381352-f1af2c76-56dd-4052-b9f7-94841bdd9a10.png)
+and the pattern: ![image](https://user-images.githubusercontent.com/13359821/131395587-af3a137b-f8a8-4ea9-a0f9-085b8cc78fb1.png)
+
 
 Example:
-![image](https://user-images.githubusercontent.com/13359821/131386605-9a3c6596-83a6-4356-8d4e-616b696a1fb3.png)
+![image]![image](https://user-images.githubusercontent.com/13359821/131395402-1e3b680d-1802-4a8d-a904-34aaaca95b93.png)
+
 
 
 The pattern is case sensitive.
