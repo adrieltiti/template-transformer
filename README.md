@@ -7,6 +7,10 @@ property-name = property-value
 
 and the pattern: ![image](https://user-images.githubusercontent.com/13359821/131381352-f1af2c76-56dd-4052-b9f7-94841bdd9a10.png)
 
+Example:
+![image](https://user-images.githubusercontent.com/13359821/131386605-9a3c6596-83a6-4356-8d4e-616b696a1fb3.png)
+
+
 The pattern is case sensitive.
 
 EXAMPLE:
