@@ -1,0 +1,3 @@
+COLOR = NO_COLOR-
+TERM = TERM-
+format = NOFORMAT
